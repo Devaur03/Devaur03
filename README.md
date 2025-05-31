@@ -30,9 +30,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Credit Scoring Projects | MLOps with MLflow | FastAPI + React Apps**
+- 🔭 I’m currently working on: **Machine Learning | FastAPI + React Apps**
 
-- 🌱 I’m currently learning: **Data Structures in Java | ML Engineering | Docker | AWS | MLOps**
+- 🌱 I’m currently learning: **ML Engineering | Docker | AWS**
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
@@ -66,4 +66,4 @@
 
     * *You know you're a dev when your debugging journey ends with one semicolon.*
 
-    * *If you're still here, let's connect — collaborations and conversations welcome!*
+    * *If you're still here, just follow me at this point!*
