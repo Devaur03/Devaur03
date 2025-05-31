@@ -46,7 +46,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gaur-a662a8286/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimgaur390@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](https://devaur03.github.io/under-construction/)
+[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](https://under-construction-swart-seven.vercel.app/)
 
 ---
 
