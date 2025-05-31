@@ -48,9 +48,9 @@
 
     * [**Drop a Mail**](mailto:dimgaur390@gmail.com)
 
-    * [**Connect via LinkedIn**]([https://www.linkedin.com/in/devanshgaur/](https://www.linkedin.com/in/devansh-gaur-a662a8286/))
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/devansh-gaur-a662a8286/)
 
-    * [**Visit My Portfolio Website**]([https://your-portfolio-link.com](https://devaur03.github.io/under-construction/)) <!-- Update with your real site if you have one -->
+    * [**Visit My Portfolio Website**](https://devaur03.github.io/under-construction/)
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Devansh Gaur" width="350" height="200" />
