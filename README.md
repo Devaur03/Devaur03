@@ -110,7 +110,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Devaur03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Devaur03&hide_contributor_rank=false&hide=C&combine_all_yearly_contributions=true&theme=highcontrast)
 
 ---
 
