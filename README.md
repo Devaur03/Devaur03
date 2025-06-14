@@ -48,7 +48,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimgaur390@gmail.com)
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-purple?logo=google-chrome&logoColor=white)](https://under-construction-swart-seven.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-purple?logo=google-chrome&logoColor=white)](https://under-construction-swart-seven.vercel.app/)
 
 ---
 
