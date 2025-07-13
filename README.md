@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on: **Machine Learning | FastAPI + React Apps**
 
-- 🌱 I’m currently learning: **ML Engineering | Docker | AWS**
+- 🌱 I’m currently learning: **ML Engineering | Docker | AWS | GCP**
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
