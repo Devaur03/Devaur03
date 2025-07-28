@@ -28,9 +28,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Machine Learning | FastAPI + React Apps**
+- 🔭 I’m currently working on: **Agentic AI | Machine Learning Apps**
 
-- 🌱 I’m currently learning: **ML Engineering | Docker | AWS | GCP**
+- 🌱 I’m currently learning: **Agentic AI | Docker | AWS | GCP**
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
@@ -38,7 +38,7 @@
 
 - 👯 I’m looking to collaborate on: **Real-world ML Projects | Web + ML Integration | Innovative Fintech Ideas**
 
-- 💬 Ask me about: **Machine Learning | Python | Web Development | DSA | Career Guidance**
+- 💬 Ask me about: **Agentic AI | Machine Learning | Python | Web Development | DSA | Career Guidance**
 
 - 🤓 Active User at: **GitHub | LinkedIn | Kaggle**
 
