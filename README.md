@@ -38,7 +38,7 @@
 
 - 👯 I’m looking to collaborate on: **Real-world ML Projects | Web + ML Integration | Innovative Fintech Ideas**
 
-- 💬 Ask me about: **Agentic AI | Machine Learning | Python | Web Development | DSA | Career Guidance**
+- 💬 Ask me about: **Agentic AI | Machine Learning | Python | Web Development | DSA **
 
 - 🤓 Active User at: **GitHub | LinkedIn | Kaggle**
 
