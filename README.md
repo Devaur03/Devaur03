@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-<img src="typewriter.gif" alt="Devansh Typer" />
+<img src="typewriter.gif" alt="Devansh Typer GIF" />
 </div>
 <br/>
 
